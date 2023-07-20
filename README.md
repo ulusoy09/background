@@ -1,10 +1,10 @@
-# background
+# backgroundtask service
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+a demo app for background services
 
 A few resources to get you started if this is your first Flutter project:
 
